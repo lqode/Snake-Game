@@ -1,4 +1,4 @@
-#Snake Game
+# Snake Game
 
 This demonstrates the snake game and it does the following actions:
 1. Moves the snake based of the arrow keys (up, down, left, right) on keyboard.
